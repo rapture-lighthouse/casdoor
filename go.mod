@@ -82,7 +82,7 @@ require (
 	github.com/xorm-io/core v0.7.4
 	github.com/xorm-io/xorm v1.1.6
 	go.opentelemetry.io/proto/otlp v1.7.1
-	golang.org/x/crypto v0.47.0
+	golang.org/x/crypto v0.52.0
 	golang.org/x/net v0.49.0
 	golang.org/x/oauth2 v0.34.0
 	golang.org/x/text v0.33.0
